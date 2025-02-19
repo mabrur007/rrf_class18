@@ -11,8 +11,8 @@
         }).addTo(map);
 
         var greenIcon = L.icon({
-            iconUrl: 'leaf-red.png',
-            shadowUrl: 'leaf-shadow.png',
+            iconUrl: 'assets/img/leaf-red.png',
+            shadowUrl: 'assets/img/leaf-shadow.png',
 
             iconSize: [38, 95], // size of the icon
             shadowSize: [50, 64], // size of the shadow
